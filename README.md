@@ -91,3 +91,7 @@ Python allows multiple extensions that can be used to name the file. Here I've p
     .pyw
 
 For example, cyberjollof.py 
+
+link to download python IDLE: https://www.python.org/downloads/
+
+link to download pycharm:https://www.jetbrains.com/pycharm/download
